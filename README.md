@@ -1,1 +1,1 @@
-# playwright-basic
+# To run the test open terminal and  type "npx playwright test"

@@ -37,7 +37,7 @@ Welcome to my learning project where I explore Playwright - an automation testin
 
 ## Note
 
-Make sure to review the [Playwright documentation](https://playwright.dev/docs/) for more information and guides.
+Make sure to review the [Playwright documentation](https://playwright.dev/docs/intro) for more information and guides.
 
 
 
